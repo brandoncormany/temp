@@ -17,3 +17,5 @@ controllers = angular.module('controllers',[])
 controllers.controller("RecipesController", [ '$scope',
   ($scope)->
 ])
+
+Just some more changes
